@@ -1,6 +1,6 @@
 # Ensemble-and-Feature-Selection-based-Keylogger-Detection
 Towards Trustworthy Keylogger detection: A Comprehensive Analysis of Ensemble Techniques and Feature Selections through Explainable AI
-
+Keylogger is a type of spyware which are used to record the keystrokes that are done by the users. in most cases, cybercriminals use to employ keyloggers to observe the keystrokes of the victim and take the information from their computer or other computing devices. The keyloggers are generally of two categories. The first category of keyloggers is injected into the user device to steal the information through the keystrokes. In that case, cybercriminals mainly emphasized on the stealing of the credentials like user IDs and passwords that they use to type to log in to any website or any application. Every keystroke is recorded by the keyloggers and sent to the cybercriminals.
 
 
 ![fig0](https://github.com/user-attachments/assets/3d8ec43c-c671-4dbf-b44f-f780fd22e21e)
